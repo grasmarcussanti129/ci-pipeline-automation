@@ -12,4 +12,4 @@ Examples of behavior that contributes to creating a positive environment include
 - Showing empathy towards other community members
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [support@newproject.com].
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [contact@newproject.com].
