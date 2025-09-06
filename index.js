@@ -1,7 +1,8 @@
 console.log('Welcome to CI Pipeline Automation!');
 
 function greetUser(name) {
-    console.log(`Hello, ${name}!`);
+    const timestamp = new Date().toLocaleString();
+    console.log(`Hello, ${name}! Current time is: ${timestamp}`);
 }
 
 greetUser('User');
